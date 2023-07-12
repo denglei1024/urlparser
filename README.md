@@ -33,5 +33,5 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## License
 
-[Specify the license under which the project is distributed]
+[License]
 
