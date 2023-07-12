@@ -27,10 +27,6 @@ URL Parser is a Chrome extension that allows you to easily parse URLs and view t
 2. A popup will appear displaying the parsed URL components.
 3. The key-value pairs for each component will be displayed in the popup.
 
-## Screenshots
-
-[Insert screenshots of the extension in action]
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
